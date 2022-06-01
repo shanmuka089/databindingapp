@@ -35,6 +35,6 @@ public class EmailController {
 	}
 
 	public void m1(){
-
+		System.out.println("it is fake method");
 	}
 }
