@@ -34,4 +34,7 @@ public class EmailController {
 		return "process-emailPage";
 	}
 
+	public void m1(){
+
+	}
 }
